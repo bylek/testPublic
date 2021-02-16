@@ -32,8 +32,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build2:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -50,8 +49,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build3:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -87,8 +85,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build5:
     # The type of runner that the job will run on
@@ -106,8 +103,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build6:
     # The type of runner that the job will run on
@@ -125,8 +121,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build7:
     # The type of runner that the job will run on
@@ -144,8 +139,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build8:
     # The type of runner that the job will run on
@@ -163,8 +157,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build9:
     # The type of runner that the job will run on
@@ -182,9 +175,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
-
+          sleep 60
   build10:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -201,8 +192,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build11:
     # The type of runner that the job will run on
@@ -220,8 +210,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build12:
     # The type of runner that the job will run on
@@ -239,8 +228,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build13:
     # The type of runner that the job will run on
@@ -258,8 +246,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build14:
     # The type of runner that the job will run on
@@ -277,8 +264,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build15:
     # The type of runner that the job will run on
@@ -296,8 +282,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
 
   build16:
     # The type of runner that the job will run on
@@ -315,8 +300,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
           
   build17:
     # The type of runner that the job will run on
@@ -334,8 +318,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build18:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -352,8 +335,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build19:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -370,8 +352,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build20:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -388,8 +369,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build21:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -406,8 +386,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build22:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -424,8 +403,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build23:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -442,8 +420,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build24:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -460,8 +437,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build25:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -478,8 +454,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build26:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -496,8 +471,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
   build27:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -514,5 +488,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sleep 60
