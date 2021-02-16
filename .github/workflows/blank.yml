@@ -32,7 +32,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -59,7 +59,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -113,7 +113,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -140,7 +140,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -167,7 +167,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -194,7 +194,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -248,7 +248,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -275,7 +275,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -302,7 +302,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -329,7 +329,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -356,7 +356,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -383,7 +383,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -410,7 +410,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -437,7 +437,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -464,7 +464,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -491,7 +491,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -518,7 +518,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -545,7 +545,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -572,7 +572,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -599,7 +599,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
@@ -626,7 +626,7 @@ jobs:
           - os: windows-2016
             node_version: 12
             architecture: x86
-        name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
+    name: Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
